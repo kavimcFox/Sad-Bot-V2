@@ -41,9 +41,9 @@ global.tiny = (await import('./lib/tiny.cjs')).default
 global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
 global.gh = "https://github.com/FahriAdison"
 global.yt = "https://bit.ly/Papah-Chan"
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm = '                「 Fox ꜱᴀᴅ BOT あ⁩ 」' 
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - kavi˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fx ꜱᴀᴅ 𝗕𝗢𝗧'
 function ucapan() {
 	var time = moment.tz('Asia/Jakarta').format('HH')
 	var res
@@ -118,10 +118,10 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6281234288573'],
-	//['12546153210'],
-	['62895612153565', 'Johannes', true],
-	['6282287219167', 'Papah-Chan', true]
+	//  ['94715168503'],
+	//['94723903414'],
+	['9471516803', 'Johannes', true],
+	['94723903414', 'Papah-Chan', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -149,13 +149,13 @@ global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/bot_whangsaf"
 
 //============= callButtons =============//
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.dtc = ' ᴏᴡɴᴇʀ'
 global.phn = '+62 822-8721-9167'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
+global.nomorbot = '94723903414'
+global.nomorown = '94715168503'
+global.namebot = 'Fox Sad-Bot'
 global.nameown = 'Papah-Chan'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
